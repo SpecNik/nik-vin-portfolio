@@ -28,3 +28,51 @@ figure.append(image,caption);galleryGrid.append(figure);}}else{const item=docume
 document.getElementById('gallery-close')?.addEventListener('click',()=>gallery.close());
 gallery?.addEventListener('click',e=>{if(e.target===gallery)gallery.close()});
 document.getElementById('year').textContent=String(new Date().getFullYear());
+
+
+// UX enhancement: clickable whole photo area and highlighted navigation
+(function(){
+  document.querySelectorAll('.project-card').forEach(card=>{
+    const trigger=card.querySelector('[data-open-gallery]');
+    const media=card.querySelector('.project-media');
+    if(!trigger || !media) return;
+    media.classList.add('is-clickable');
+    media.setAttribute('tabindex','0');
+    media.setAttribute('role','button');
+    media.setAttribute('aria-label',`Open photo gallery for ${card.querySelector('h3')?.textContent || 'project'}`);
+    media.addEventListener('click',e=>{
+      if(e.target.closest('a, button')) return;
+      trigger.click();
+    });
+    media.addEventListener('keydown',e=>{
+      if(e.key==='Enter' || e.key===' '){
+        e.preventDefault();
+        trigger.click();
+      }
+    });
+  });
+  const sectionIds=['expertise','projects','about','contact'];
+  const links=[...document.querySelectorAll('.nav-links a, .mobile-menu a')];
+  const sections=sectionIds.map(id=>document.getElementById(id)).filter(Boolean);
+  const highlight=(id)=>{
+    links.forEach(link=>{
+      const active=link.getAttribute('href')===`#${id}`;
+      link.classList.toggle('is-current',active);
+      if(active) link.setAttribute('aria-current','location');
+      else link.removeAttribute('aria-current');
+    });
+  };
+  const initial=(location.hash||'#expertise').substring(1);
+  if(sectionIds.includes(initial))highlight(initial);
+  window.addEventListener('hashchange',()=>{
+    const id=location.hash.substring(1);
+    if(sectionIds.includes(id))highlight(id);
+  });
+  if('IntersectionObserver' in window){
+    const observer=new IntersectionObserver(entries=>{
+      const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio);
+      if(visible.length)highlight(visible[0].target.id);
+    },{rootMargin:'-15% 0px -50% 0px',threshold:[0,0.1,0.25,0.5,0.75]});
+    sections.forEach(section=>observer.observe(section));
+  }
+})();
