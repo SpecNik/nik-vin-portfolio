@@ -1,0 +1,352 @@
+[
+  {
+    "project": "hyatt",
+    "position": 1,
+    "source": "20131115_154023.jpg",
+    "file": "hyatt-01.jpg",
+    "size_kb": 296
+  },
+  {
+    "project": "hyatt",
+    "position": 2,
+    "source": "62660.jpg",
+    "file": "hyatt-02.jpg",
+    "size_kb": 288
+  },
+  {
+    "project": "hyatt",
+    "position": 3,
+    "source": "1000016684.jpg",
+    "file": "hyatt-03.jpg",
+    "size_kb": 285
+  },
+  {
+    "project": "hyatt",
+    "position": 4,
+    "source": "1000038896.jpg",
+    "file": "hyatt-04.jpg",
+    "size_kb": 98
+  },
+  {
+    "project": "hyatt",
+    "position": 5,
+    "source": "1000016685.jpg",
+    "file": "hyatt-05.jpg",
+    "size_kb": 268
+  },
+  {
+    "project": "niime",
+    "position": 1,
+    "source": "DSC01674.JPG",
+    "file": "niime-01.jpg",
+    "size_kb": 275
+  },
+  {
+    "project": "niime",
+    "position": 2,
+    "source": "IMG_5337.JPG",
+    "file": "niime-02.jpg",
+    "size_kb": 200
+  },
+  {
+    "project": "niime",
+    "position": 3,
+    "source": "IMG_5282.JPG",
+    "file": "niime-03.jpg",
+    "size_kb": 283
+  },
+  {
+    "project": "niime",
+    "position": 4,
+    "source": "IMG_5291.JPG",
+    "file": "niime-04.jpg",
+    "size_kb": 190
+  },
+  {
+    "project": "niime",
+    "position": 5,
+    "source": "IMG_5296.JPG",
+    "file": "niime-05.jpg",
+    "size_kb": 190
+  },
+  {
+    "project": "mikron-90",
+    "position": 1,
+    "source": "IMGP2190.JPG",
+    "file": "mikron-90-01.jpg",
+    "size_kb": 251
+  },
+  {
+    "project": "mikron-90",
+    "position": 2,
+    "source": "DSC02226.JPG",
+    "file": "mikron-90-02.jpg",
+    "size_kb": 160
+  },
+  {
+    "project": "mikron-90",
+    "position": 3,
+    "source": "IMGP2189.JPG",
+    "file": "mikron-90-03.jpg",
+    "size_kb": 367
+  },
+  {
+    "project": "mikron-90",
+    "position": 4,
+    "source": "20190624_105241.jpg",
+    "file": "mikron-90-04.jpg",
+    "size_kb": 303
+  },
+  {
+    "project": "mikron-180",
+    "position": 1,
+    "source": "20190921_172349.jpg",
+    "file": "mikron-180-01.jpg",
+    "size_kb": 307
+  },
+  {
+    "project": "mikron-180",
+    "position": 2,
+    "source": "20190921_181531.jpg",
+    "file": "mikron-180-02.jpg",
+    "size_kb": 216
+  },
+  {
+    "project": "mikron-180",
+    "position": 3,
+    "source": "20190830_115026.jpg",
+    "file": "mikron-180-03.jpg",
+    "size_kb": 219
+  },
+  {
+    "project": "mikron-180",
+    "position": 4,
+    "source": "20190826_151358.jpg",
+    "file": "mikron-180-04.jpg",
+    "size_kb": 400
+  },
+  {
+    "project": "mikron-45",
+    "position": 1,
+    "source": "IMGP2190.JPG",
+    "file": "mikron-45-01.jpg",
+    "size_kb": 251
+  },
+  {
+    "project": "mikron-45",
+    "position": 2,
+    "source": "DSC02226.JPG",
+    "file": "mikron-45-02.jpg",
+    "size_kb": 160
+  },
+  {
+    "project": "mikron-45",
+    "position": 3,
+    "source": "20190921_161754.jpg",
+    "file": "mikron-45-03.jpg",
+    "size_kb": 302
+  },
+  {
+    "project": "mikron-45",
+    "position": 4,
+    "source": "20190624_105241.jpg",
+    "file": "mikron-45-04.jpg",
+    "size_kb": 303
+  },
+  {
+    "project": "mrtz",
+    "position": 1,
+    "source": "image(10).png",
+    "file": "mrtz-01.jpg",
+    "size_kb": 287
+  },
+  {
+    "project": "columbus",
+    "position": 1,
+    "source": "image(8).png",
+    "file": "columbus-01.jpg",
+    "size_kb": 177
+  },
+  {
+    "project": "vremena",
+    "position": 1,
+    "source": "image(9).png",
+    "file": "vremena-01.jpg",
+    "size_kb": 93
+  },
+  {
+    "project": "obninsk",
+    "position": 1,
+    "source": "1000015750.jpg",
+    "file": "obninsk-01.jpg",
+    "size_kb": 247
+  },
+  {
+    "project": "obninsk",
+    "position": 2,
+    "source": "1000015767.jpg",
+    "file": "obninsk-02.jpg",
+    "size_kb": 428
+  },
+  {
+    "project": "obninsk",
+    "position": 3,
+    "source": "1000015709.jpg",
+    "file": "obninsk-03.jpg",
+    "size_kb": 244
+  },
+  {
+    "project": "obninsk",
+    "position": 4,
+    "source": "1000015705.jpg",
+    "file": "obninsk-04.jpg",
+    "size_kb": 252
+  },
+  {
+    "project": "obninsk",
+    "position": 5,
+    "source": "1000015696.jpg",
+    "file": "obninsk-05.jpg",
+    "size_kb": 172
+  },
+  {
+    "project": "mc-ntt",
+    "position": 1,
+    "source": "image(20261112-002626).png",
+    "file": "mc-ntt-01.jpg",
+    "size_kb": 18
+  },
+  {
+    "project": "mc-ntt",
+    "position": 2,
+    "source": "image(20261112-002743).png",
+    "file": "mc-ntt-02.jpg",
+    "size_kb": 44
+  },
+  {
+    "project": "mc-ntt",
+    "position": 3,
+    "source": "IMG_5343.JPG",
+    "file": "mc-ntt-03.jpg",
+    "size_kb": 223
+  },
+  {
+    "project": "mgts",
+    "position": 1,
+    "source": "image(20261112-002252).png",
+    "file": "mgts-01.jpg",
+    "size_kb": 37
+  },
+  {
+    "project": "mgts",
+    "position": 2,
+    "source": "image(20261112-002426).png",
+    "file": "mgts-02.jpg",
+    "size_kb": 29
+  },
+  {
+    "project": "mgts",
+    "position": 3,
+    "source": "IMG_5343.JPG",
+    "file": "mgts-03.jpg",
+    "size_kb": 223
+  },
+  {
+    "project": "mts",
+    "position": 1,
+    "source": "image(20261112-002116).png",
+    "file": "mts-01.jpg",
+    "size_kb": 68
+  },
+  {
+    "project": "mts",
+    "position": 2,
+    "source": "image(20261112-001831).png",
+    "file": "mts-02.jpg",
+    "size_kb": 75
+  },
+  {
+    "project": "mts",
+    "position": 3,
+    "source": "IMG_5343.JPG",
+    "file": "mts-03.jpg",
+    "size_kb": 223
+  },
+  {
+    "project": "beeline",
+    "position": 1,
+    "source": "image(20261112-002222).png",
+    "file": "beeline-01.jpg",
+    "size_kb": 78
+  },
+  {
+    "project": "beeline",
+    "position": 2,
+    "source": "image(20261112-002011).png",
+    "file": "beeline-02.jpg",
+    "size_kb": 247
+  },
+  {
+    "project": "beeline",
+    "position": 3,
+    "source": "IMG_5343.JPG",
+    "file": "beeline-03.jpg",
+    "size_kb": 223
+  },
+  {
+    "project": "nauka",
+    "position": 1,
+    "source": "image(20261112-003250).png",
+    "file": "nauka-01.jpg",
+    "size_kb": 29,
+    "description": "Nauka-Svyaz logo (submitted artwork)"
+  },
+  {
+    "project": "nauka",
+    "position": 2,
+    "source": "image(20261112-001831).png",
+    "file": "nauka-02.jpg",
+    "size_kb": 87,
+    "description": "Optical cable construction · illustrative product image"
+  },
+  {
+    "project": "nauka",
+    "position": 3,
+    "source": "IMG_5343.JPG",
+    "file": "nauka-03.jpg",
+    "size_kb": 264,
+    "description": "Optical patching work · shared representative photo"
+  },
+  {
+    "project": "nauka",
+    "position": 4,
+    "source": "image(20261112-003413).png",
+    "file": "nauka-04.jpg",
+    "size_kb": 204,
+    "description": "Electrical control cabinets · supplied reference photo"
+  },
+  {
+    "project": "nauka",
+    "position": 5,
+    "source": "image(20261112-002011).png",
+    "file": "nauka-05.jpg",
+    "size_kb": 273,
+    "description": "Cable reels · representative infrastructure photo"
+  },
+  {
+    "project": "donatos",
+    "position": 1,
+    "source": "20140927_165936.jpg",
+    "file": "donatos-01.jpg",
+    "size_kb": 269,
+    "description": "Donatos — meeting room with video projection and audiovisual equipment"
+  },
+  {
+    "project": "donatos",
+    "position": 2,
+    "source": "20180927_113157.jpg",
+    "file": "donatos-02.jpg",
+    "size_kb": 174,
+    "description": "Donatos — projector installation and alignment work"
+  }
+]

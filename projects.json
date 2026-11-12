@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "niime",
+    "name": "NIIME — Molecular Electronics Research Institute",
+    "short": "NIIME / 18-floor modernization",
+    "category": "industrial",
+    "sector": "RESEARCH FACILITY / CAMPUS INFRASTRUCTURE",
+    "desc": "Network infrastructure modernization for a microelectronics R&D environment. Replacement and construction of structured cabling across an 18-storey building, with an optical backbone and a network rack on every floor. Separate IT and security server rooms and a restricted-access technical space.",
+    "scope": [
+      "18 storeys",
+      "700+ employees",
+      "Floor-by-floor fibre"
+    ],
+    "features": [
+      "New structured cabling (SCS)",
+      "IT & security server rooms",
+      "Floor network racks",
+      "UPS / fire suppression"
+    ],
+    "source": "https://www.niime.ru/about/",
+    "source_label": "About NIIME"
+  },
+  {
+    "slug": "mikron-90",
+    "name": "Mikron — 90 nm Production",
+    "short": "Mikron / 90 nm",
+    "category": "industrial",
+    "sector": "SEMICONDUCTOR / PRODUCTION IT",
+    "desc": "Physical network and connectivity work supporting a 90 nm semiconductor production environment. Structured cabling across buildings 1–4, fibre connectivity to every floor, and industrial-network integration in a high-availability setting.",
+    "scope": [
+      "Buildings 1–4",
+      "800+ employees across Mikron scope",
+      "Fibre to every floor"
+    ],
+    "features": [
+      "Structured cabling & patch panels",
+      "Industrial Ethernet / Modbus TCP",
+      "Connected production systems",
+      "Security / automatic fire suppression"
+    ],
+    "source": "https://mikron.ru/production/",
+    "source_label": "Mikron production"
+  },
+  {
+    "slug": "mikron-180",
+    "name": "Mikron — 180 nm Production",
+    "short": "Mikron / 180 nm",
+    "category": "industrial",
+    "sector": "SEMICONDUCTOR / PRODUCTION INFRASTRUCTURE",
+    "desc": "Separate 180 nm manufacturing infrastructure scope within the Mikron site. Structured copper and fibre cabling across production buildings 1–4, inter-floor links and support for industrial networking and building technical systems.",
+    "scope": [
+      "Buildings 1–4",
+      "800+ employees across Mikron scope",
+      "Inter-floor optical links"
+    ],
+    "features": [
+      "Cat5e / Cat6 & fibre",
+      "Floor connectivity",
+      "Industrial network support",
+      "Security / automatic fire suppression"
+    ],
+    "source": "https://mikron.ru/",
+    "source_label": "About Mikron"
+  },
+  {
+    "slug": "mikron-45",
+    "name": "Mikron — 45 nm Laboratory",
+    "short": "Mikron / 45 nm lab",
+    "category": "industrial",
+    "sector": "SPECIALIZED LABORATORY / CRITICAL POWER",
+    "desc": "Dedicated laboratory infrastructure work associated with the 45 nm research area, including technical connectivity and uninterruptible power supply (UPS) infrastructure. This describes the laboratory support scope, not a claim of commercial 45 nm production.",
+    "scope": [
+      "Specialized laboratory",
+      "UPS infrastructure"
+    ],
+    "features": [
+      "UPS / power continuity",
+      "Lab connectivity",
+      "Low-voltage infrastructure",
+      "Commissioning support"
+    ],
+    "source": "https://mikron.ru/company/",
+    "source_label": "About Mikron"
+  },
+  {
+    "slug": "mrtz",
+    "name": "MRTZ — Laboratory Building",
+    "short": "MRTZ / Lab building",
+    "category": "industrial",
+    "sector": "RADIO-ELECTRONICS / LABORATORY INFRASTRUCTURE",
+    "desc": "Structured cabling and fibre-optic infrastructure for a laboratory building at the Moscow Radio Engineering Plant (MRTZ), with UPS-related power continuity systems and technical network infrastructure.",
+    "scope": [
+      "Laboratory building",
+      "Copper + fibre",
+      "UPS"
+    ],
+    "features": [
+      "Structured cabling",
+      "Fibre-optic routes",
+      "Rack / patching infrastructure",
+      "UPS / continuity"
+    ],
+    "source": "https://vpk.name/library/f/mrtz.html",
+    "source_label": "MRTZ company profile"
+  },
+  {
+    "slug": "nauka",
+    "name": "Nauka-Svyaz — Metro Fibre Network",
+    "short": "Nauka-Svyaz / Fibre",
+    "category": "telecom",
+    "sector": "TELECOMMUNICATIONS / METRO & REGIONAL",
+    "desc": "Fibre-optic telecommunications infrastructure work across Moscow and Moscow Oblast for Nauka-Svyaz, an operator with its own metropolitan and regional optical network.",
+    "scope": [
+      "Moscow",
+      "Moscow Oblast",
+      "Fibre routes"
+    ],
+    "features": [
+      "Fibre infrastructure",
+      "Optical connectivity",
+      "Field network works",
+      "Testing & handover"
+    ],
+    "source": "https://naukanet.ru/o-kompanii.html",
+    "source_label": "About Nauka-Svyaz"
+  },
+  {
+    "slug": "mc-ntt",
+    "name": "MC NTT — Moscow Optical Network",
+    "short": "MC NTT / 600 cables",
+    "category": "telecom",
+    "sector": "METROPOLITAN TELECOM / OPTICAL CABLE",
+    "desc": "City-wide optical network work in Moscow for the Moscow Centre for New Telecommunications Technologies (MC NTT). The stated project scope covered approximately 600 fibre-optic cables.",
+    "scope": [
+      "600 optical cables",
+      "Moscow city"
+    ],
+    "features": [
+      "Optical cable infrastructure",
+      "Telecom connectivity",
+      "Field installation support",
+      "Cable testing"
+    ],
+    "source": "https://www.tbank.ru/business/contractor/legal/1027739152418/",
+    "source_label": "Company identification"
+  },
+  {
+    "slug": "mgts",
+    "name": "MGTS — Multi-pair Telephone Network",
+    "short": "MGTS / 200 multi-pair",
+    "category": "telecom",
+    "sector": "FIXED-LINE TELECOM / COPPER DISTRIBUTION",
+    "desc": "Work on approximately 200 multi-pair telecommunications cables in the Moscow fixed-line network, including copper distribution, cable connectivity and infrastructure modernization.",
+    "scope": [
+      "200 multi-pair cables",
+      "Moscow"
+    ],
+    "features": [
+      "Multi-pair copper",
+      "Telecom distribution",
+      "Cable connectivity",
+      "Fault isolation"
+    ],
+    "source": null,
+    "source_label": null
+  },
+  {
+    "slug": "mts",
+    "name": "MTS — Fibre & Mobile Base Stations",
+    "short": "MTS / Base stations",
+    "category": "telecom",
+    "sector": "MOBILE TELECOM / BASE-STATION CONNECTIVITY",
+    "desc": "Fibre-optic network and connectivity work related to MTS mobile base-station sites. Optical access infrastructure, physical connections and network installation support.",
+    "scope": [
+      "Fibre access",
+      "Base-station sites"
+    ],
+    "features": [
+      "Optical backhaul",
+      "Site connectivity",
+      "Network hardware",
+      "Installation / tests"
+    ],
+    "source": null,
+    "source_label": null
+  },
+  {
+    "slug": "beeline",
+    "name": "Beeline — Fibre & Mobile Base Stations",
+    "short": "Beeline / Base stations",
+    "category": "telecom",
+    "sector": "MOBILE TELECOM / BASE-STATION CONNECTIVITY",
+    "desc": "Optical infrastructure and connectivity work for Beeline base-station facilities, including fibre connections, physical network equipment and technical installation support.",
+    "scope": [
+      "Fibre access",
+      "Base-station sites"
+    ],
+    "features": [
+      "Fibre-optic network",
+      "Telecom sites",
+      "Cable infrastructure",
+      "Testing / handover"
+    ],
+    "source": null,
+    "source_label": null
+  },
+  {
+    "slug": "donatos",
+    "name": "Donatos — Video Conferencing & SCS",
+    "short": "Donatos / 50 staff",
+    "category": "enterprise",
+    "sector": "OFFICE / COLLABORATION SYSTEMS",
+    "desc": "Office structured cabling and a video conferencing system for approximately 50 employees. Connectivity for conference rooms, network endpoints, audiovisual communication and supporting low-voltage systems.",
+    "scope": [
+      "50 employees",
+      "Office network",
+      "Video conferencing"
+    ],
+    "features": [
+      "Video conferencing",
+      "Structured cabling",
+      "Conference-room connectivity",
+      "Office Wi-Fi"
+    ],
+    "source": null,
+    "source_label": null
+  },
+  {
+    "slug": "columbus",
+    "name": "Columbus — Shopping Centre Cabling",
+    "short": "Columbus / Retail",
+    "category": "commercial",
+    "sector": "SHOPPING CENTRE / COMMERCIAL LOW-VOLTAGE",
+    "desc": "Structured cabling works within the Columbus shopping and entertainment centre in Moscow. Network cable routing, connection points and support for retail-building connectivity systems.",
+    "scope": [
+      "Commercial property",
+      "Moscow",
+      "SCS"
+    ],
+    "features": [
+      "Structured cabling",
+      "Retail connectivity",
+      "Patch panels / endpoints",
+      "Testing"
+    ],
+    "source": "https://columbus.moscow/",
+    "source_label": "Columbus official site"
+  },
+  {
+    "slug": "vremena",
+    "name": "Vremena Goda — Retail Galleries",
+    "short": "Vremena Goda / Retail",
+    "category": "commercial",
+    "sector": "PREMIUM RETAIL / COMMUNICATIONS INFRASTRUCTURE",
+    "desc": "Structured cabling work at Vremena Goda, a premium shopping gallery complex on Kutuzovsky Prospekt in Moscow. Physical network and low-voltage connectivity for a multi-tenant retail environment.",
+    "scope": [
+      "Retail galleries",
+      "Moscow",
+      "SCS"
+    ],
+    "features": [
+      "Structured cabling",
+      "Network endpoints",
+      "Low-voltage infrastructure",
+      "Equipment connectivity"
+    ],
+    "source": "https://vremenagoda-moscow.ru/",
+    "source_label": "Vremena Goda official site"
+  },
+  {
+    "slug": "obninsk",
+    "name": "Technopark Obninsk TECH",
+    "short": "Obninsk TECH",
+    "category": "industrial",
+    "sector": "INDUSTRIAL TECHNOLOGY / SERVER INFRASTRUCTURE",
+    "desc": "Communication networks and server-room infrastructure for a technology hub: racks and equipment spaces, virtualization and backup architecture, security infrastructure, testing, technical documentation and operational handover.",
+    "scope": [
+      "Industrial campus",
+      "Server rooms",
+      "Backup / recovery"
+    ],
+    "features": [
+      "Network infrastructure",
+      "Racks & server rooms",
+      "Virtualization / backup",
+      "Vendor coordination"
+    ],
+    "source": null,
+    "source_label": null
+  },
+  {
+    "slug": "hyatt",
+    "name": "Hyatt Sochi — Hotel Communications",
+    "short": "Hyatt Sochi",
+    "category": "commercial",
+    "sector": "HOSPITALITY / LOW-VOLTAGE SYSTEMS",
+    "desc": "On-site network and low-voltage communications infrastructure deployment for a hotel environment. Equipment installation, connectivity testing, commissioning support and technical coordination.",
+    "scope": [
+      "Hotel infrastructure",
+      "Communications",
+      "Commissioning"
+    ],
+    "features": [
+      "Network connectivity",
+      "Low-voltage installation",
+      "Equipment setup",
+      "Site testing"
+    ],
+    "source": null,
+    "source_label": null
+  }
+]
