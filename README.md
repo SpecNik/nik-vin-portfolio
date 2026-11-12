@@ -20,3 +20,17 @@ Be sure you are authorized to publish photographs taken on client or secure site
 
 ## Final visual update
 The homepage hero now uses `assets/42u-network-rack.webp`, replacing the simplified rack SVG, while preserving all fifteen project galleries.
+
+
+## Publish from GitHub (recommended)
+
+Cloudflare Dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git** → choose `SpecNik/nik-vin-portfolio`.
+
+- Production branch: `main`
+- Framework preset: `None`
+- Build command: leave empty
+- Build output directory: `.`
+
+The site is plain HTML/CSS/JavaScript and does not need a build step. New commits to `main` trigger automatic Cloudflare Pages deployments.
+
+To open project photos, click the large cover image or the **Open gallery** button. No downloadable resume is published.
