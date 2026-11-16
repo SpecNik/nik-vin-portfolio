@@ -107,3 +107,28 @@
   .skill-card h3{font-size:22px}
   .skill-card p{font-size:13.5px}
 }
+
+
+/* L1 / L2 support experience — six named projects */
+.support-section{background:#f0f1f3;scroll-margin-top:100px}
+.support-levels{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:20px}
+.support-level{display:flex;align-items:flex-start;gap:20px;background:#1c1d1f;color:#fff;padding:25px;border-radius:23px}
+.support-level-id{width:66px;height:66px;border-radius:17px;flex-shrink:0;display:flex;justify-content:center;align-items:center;background:var(--yellow);color:#171717;font-size:23px;font-weight:850;letter-spacing:-.04em}
+.support-level h3{font-size:19px;letter-spacing:-.045em;margin:1px 0 9px}
+.support-level p{font-size:13px;line-height:1.75;color:#d2d4d7;margin:0}
+.support-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.support-card{display:flex;flex-direction:column;min-height:295px;background:white;border:1px solid #e8e9eb;border-radius:24px;padding:25px;transition:transform .2s ease,box-shadow .2s ease}
+.support-card:hover{transform:translateY(-4px);box-shadow:0 14px 28px #0f0f0f0c}
+.support-card-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:23px}
+.support-mark{background:#fff0a8;color:#292600;display:flex;align-items:center;justify-content:center;height:42px;width:42px;border-radius:13px;font-weight:850;font-size:15px}
+.support-type{font-size:10px;letter-spacing:.075em;color:#81858d;font-weight:850;text-align:right}
+.support-card h3{font-size:24px;letter-spacing:-.055em;margin:0 0 10px}
+.support-card p{font-size:13px;font-weight:500;line-height:1.75;color:#636970;margin:0 0 21px}
+.support-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto}
+.support-tags span{font-size:10px;font-weight:700;border:1px solid #e8e9eb;border-radius:9px;padding:7px 9px;background:#f7f8fa}
+.support-footer{margin-top:18px;display:flex;align-items:center;gap:20px;padding:20px 24px;border-radius:18px;background:#ffed95;font-size:12px;line-height:1.7}
+.support-footer strong{white-space:nowrap;font-size:14px}
+#support,#about,#projects,#expertise,#contact{scroll-margin-top:105px}
+@media(max-width:1100px){.support-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.nav-links{gap:10px}.nav-links a{font-size:14px;padding:9px}}
+@media(max-width:900px){.support-levels{grid-template-columns:1fr}.support-section{scroll-margin-top:85px}}
+@media(max-width:650px){.support-grid{grid-template-columns:1fr}.support-level{padding:20px;gap:14px}.support-level-id{width:53px;height:53px;font-size:20px}.support-card{min-height:0}.support-footer{display:block}.support-footer strong{display:block;margin-bottom:8px}#support,#about,#projects,#expertise,#contact{scroll-margin-top:75px}}

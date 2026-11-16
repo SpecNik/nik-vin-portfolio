@@ -51,7 +51,7 @@ document.getElementById('year').textContent=String(new Date().getFullYear());
       }
     });
   });
-  const sectionIds=['expertise','projects','about','contact'];
+  const sectionIds=['expertise','projects','support','about','contact'];
   const links=[...document.querySelectorAll('.nav-links a, .mobile-menu a')];
   const sections=sectionIds.map(id=>document.getElementById(id)).filter(Boolean);
   const highlight=(id)=>{
