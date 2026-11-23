@@ -199,3 +199,9 @@
   .support-sla-steps{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 @media(prefers-reduced-motion:reduce){.support-case{transition:none}.support-case:hover{transform:none}}
+
+
+/* Prioritize L1/L2 support in the main expertise grid. */
+.skill-card--support-first{background:#fffdf3;border:2px solid var(--yellow);box-shadow:0 10px 28px rgba(255,221,45,.11)}
+.skill-card--support-first:hover{box-shadow:0 16px 34px rgba(255,221,45,.18)}
+.skill-card--support-first .skill-tags span{border-color:#e8d47b;background:#fff3b5}

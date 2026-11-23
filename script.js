@@ -51,7 +51,7 @@ document.getElementById('year').textContent=String(new Date().getFullYear());
       }
     });
   });
-  const sectionIds=['expertise','projects','support','about','contact'];
+  const sectionIds=['support','expertise','projects','about','contact'];
   const links=[...document.querySelectorAll('.nav-links a, .mobile-menu a')];
   const sections=sectionIds.map(id=>document.getElementById(id)).filter(Boolean);
   const highlight=(id)=>{
@@ -62,7 +62,7 @@ document.getElementById('year').textContent=String(new Date().getFullYear());
       else link.removeAttribute('aria-current');
     });
   };
-  const initial=(location.hash||'#expertise').substring(1);
+  const initial=(location.hash||'#support').substring(1);
   if(sectionIds.includes(initial))highlight(initial);
   window.addEventListener('hashchange',()=>{
     const id=location.hash.substring(1);
